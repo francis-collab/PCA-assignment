@@ -61,7 +61,9 @@ Implement PCA manually to reduce dimensionality while preserving as much varianc
 1. **Clone or download this repository**
 
     git clone https://github.com/YOUR-USERNAME/pca-assignment.git
+    ```bash
     cd pca-assignment
+    ```
 
 2. **Open in Google Colab**
 
