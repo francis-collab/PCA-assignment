@@ -95,13 +95,13 @@ Implement PCA manually to reduce dimensionality while preserving as much varianc
         - Reduced data sample
         - Before vs After PCA scatter plots with labels and explanation
 
-# Note: Dataset is large (~165k rows)
-# If Colab runs slowly or hits memory limits after one-hot encoding, use a subset:
+### Note: Dataset is large (~165k rows)
+### If Colab runs slowly or hits memory limits after one-hot encoding, use a subset:
 
     df = df.sample(20000, random_state=42)
 
-# This uses a representative 20,000-row subset for faster execution 
-# while preserving the assignment goals.
+### This uses a representative 20,000-row subset for faster execution 
+### while preserving the assignment goals.
 
 
 ## Rubric Alignment
