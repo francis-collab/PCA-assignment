@@ -121,7 +121,7 @@ Implement PCA manually to reduce dimensionality while preserving as much varianc
 
 Dataset: Armed Conflict Location & Event Data Project (ACLED) via Kaggle  
 Course: Mathematics for Machine Learning  
-Reference: Built In – Step-by-Step Explanation of Principal Component Analysis  
+Reference: Built In – Step-by-Step Explanation of Principal Component Analysis (https://builtin.com/data-science/step-step-explanation-principal-component-analysis) 
 
 
 Francis  
